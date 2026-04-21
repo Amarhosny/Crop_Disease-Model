@@ -1,6 +1,3 @@
-This README is designed to showcase your impressive **95.12% accuracy** and the technical sophistication of your graduation project. It highlights your use of **Transfer Learning** and the **MobileNetV2** architecture.
-
-***
 
 # Date Palm Disease Classification using Deep Learning
 
