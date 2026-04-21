@@ -50,7 +50,7 @@ The final evaluation on the unseen test set yielded the following classification
 | 9. Healthy sample | 0.99 | 0.96 | 0.98 |
 | **Average** | **0.95** | **0.95** | **0.95** |
 
-<img width="1120" height="989" alt="image" src="https://github.com/user-attachments/assets/ecbbabd8-0159-4607-989a-f2f8d0d3c62e" />
+<img width="400" height="232" alt="image" src="https://github.com/user-attachments/assets/ecbbabd8-0159-4607-989a-f2f8d0d3c62e" />
 
 
 
