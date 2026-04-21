@@ -44,11 +44,18 @@ The model was trained using a dataset structured into `train`, `valid`, and `tes
 ## 📈 Evaluation Results
 The final evaluation on the unseen test set yielded the following classification report:
 
-| Class | Precision | Recall | F1-Score |
-| :--- | :--- | :--- | :--- |
-| 10. Dubas | 1.00 | 0.98 | 0.99 |
-| 9. Healthy sample | 0.99 | 0.96 | 0.98 |
-| **Average** | **0.95** | **0.95** | **0.95** |
+
+Class Name,Precision,Recall,F1-Score,Support (Images)
+1. Potassium Deficiency,0.8846,0.8734,0.8790,79
+10. Dubas,1.0000,0.9821,0.9910,224
+2. Manganese Deficiency,0.9756,0.9756,0.9756,41
+3. Magnesium Deficiency,0.8800,0.9167,0.8980,48
+4. Black Scorch,0.8000,1.0000,0.8889,8
+5. Leaf Spots,1.0000,0.8667,0.9286,60
+6. Fusarium Wilt,0.6400,0.8000,0.7111,20
+7. Rachis Blight,0.8846,1.0000,0.9388,23
+8. Parlatoria Blanchardi,0.9316,0.9820,0.9561,111
+9. Healthy sample,0.9865,0.9648,0.9755,227
 
 <img width="400" height="232" alt="image" src="https://github.com/user-attachments/assets/ecbbabd8-0159-4607-989a-f2f8d0d3c62e" />
 
